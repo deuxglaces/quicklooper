@@ -1,0 +1,5 @@
+/venv/
+/.bumpversion.cfg
+/tox.ini
+/.tox
+/quicklooper.egg-info
